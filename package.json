@@ -1,0 +1,26 @@
+{
+  "name": "videos",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render",
+    "preview": "remotion preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongho-jung/videos.git"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.448",
+    "@remotion/cli": "4.0.448",
+    "react": "19.2.5",
+    "react-dom": "19.2.5",
+    "remotion": "4.0.448"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "typescript": "6.0.3"
+  }
+}
